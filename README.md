@@ -2,6 +2,9 @@
 <h2>Introduction</h2>
 <p>I tried to implement AR filters that are widely used on TikTok or Instagram using OpenCV in Python.</p>
 <p>This program makes your face rediculous using AR technology.</p>
+<ul>
+  <li>example</li>
+</ul>
 <table>
   <tr>
     <th scope="col">instagram</td>
@@ -21,5 +24,19 @@
 </ul>
 <h2>Contents</h2>
 <ul>
-  <li>sample/shape_predictor_68_face_landmarks.dat : </li>
+  <li><code>sample/shape_predictor_68_face_landmarks.dat</code>: File containing face landmark information</li>
+  <li><code>sample/rest</code>: original image files of filter</li>
+  <li><code>overlay_transparent</code>: function to synthesize an image on your face</li>
+  <li><code>main.py</code>: main function of program</li>
+  <li>filters</li>
+  <ul>
+    <li><code>bulge_effect.py</code>: filter that applies bulge effect to your face</li>
+    <li><code>concave_effect.py</code>: filter that applies concave effect to your face</li>
+    <li><code>dog_filter.py</code>: filter that applies dog effect to your face</li>
+    <li><code>enlarge_eyes_and_mouth.py</code>: filter that enlarges your eyes and mouth</li>
+    <li><code>hamster_filter.py</code>: filter that makes hamster pictures come out with your face</li>
+    <li><code>hat_filter.py</code>: filter that applies hat effect to your head</li>
+    <li><code>sunglasses_filter.py</code>: filter that applies sunglasses effect to your eyes</li>
+  </ul>
 </ul>
+
