@@ -1,2 +1,3 @@
 # funnyface_AR_filter
-funny face AR filter using OpenCV, written in python
+<h2>Introduction</h2>
+<p>I tried to implement AR filters that are widely used on TikTok or Instagram using OpenCV in Python.</p>
