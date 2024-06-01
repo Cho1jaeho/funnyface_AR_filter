@@ -12,7 +12,10 @@
     <td><img src="https://github.com/Cho1jaeho/funnyface_AR_filter/assets/162866830/106e5e52-b227-4c8c-93be-4ccb47f12ea5"</td>
   </tr>
 </table>
+<h2>Technique used to create program</h2>
+<p>To synthesize the filter into the face, the face location information must be recognized.</p>
+
 <h2>Contents</h2>
 <ul>
-  <li></li>
+  <li>sample/shape_predictor_68_face_landmarks.dat : </li>
 </ul>
