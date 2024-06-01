@@ -14,7 +14,10 @@
 </table>
 <h2>Technique used to create program</h2>
 <p>To synthesize the filter into the face, the face location information must be recognized.</p>
-
+<p>I used <code>dlib</code> to solve this problem.</p>
+<ul>
+  <li></li>
+</ul>
 <h2>Contents</h2>
 <ul>
   <li>sample/shape_predictor_68_face_landmarks.dat : </li>
