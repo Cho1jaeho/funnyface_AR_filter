@@ -42,4 +42,4 @@
 <h2>How to use</h2>
 <p>Download samples and files, and run <code>main.py</code>.</p>
 <p>When you run it, your face will appear on the webcam without the filter applied.</p>
-<p>Whenever you press tab key, filter changes.</p>
+<p>Whenever you press tab key, filter changes. and press 'q', program finishes.</p>
