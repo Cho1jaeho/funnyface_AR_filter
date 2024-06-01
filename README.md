@@ -16,7 +16,8 @@
 <p>To synthesize the filter into the face, the face location information must be recognized.</p>
 <p>I used <code>dlib</code> to solve this problem.</p>
 <ul>
-  <li><a href="http://dlib.net/">dlib formal document</a></li>
+  <li>Used for face recognition and landmark detection</li>
+  <li>For more information, <a href="http://dlib.net/">dlib formal document</a></li>
 </ul>
 <h2>Contents</h2>
 <ul>
