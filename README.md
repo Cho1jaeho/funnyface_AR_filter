@@ -62,5 +62,36 @@
   <li>dog filter</li>
   <img src="https://github.com/Cho1jaeho/funnyface_AR_filter/assets/162866830/42c33bf6-bf52-48fe-a549-c92e284e7370" width=600 height=500>
   <li>color invert</li>
+  <ul>
+    <li>I implemented in <code>main.py</code> because this code is too short.</li>
+  </ul>
   <img src="https://github.com/Cho1jaeho/funnyface_AR_filter/assets/162866830/ee1c69e6-445a-4162-b7b6-f6ce46e6c616" width=600 height=500>
+</ul>
+<h2>Future enhancements</h2>
+<ul>
+<li>Creating more sophisticated filters</li>
+<li>Expanding filter coverage not only to face but also to body</li>
+</ul>
+<h2>References</h2>
+<ul>
+  <li>used tools</li>
+  <ul>
+    <li>Spyder(python 3.8.19)</li>
+    <li>ChatGPT 4.0</li>
+  </ul>
+</ul>
+<ul>
+  <li>filter example</li>
+  <ul>
+    <li>instagram: https://www.topstarnews.net/news/articleView.html?idxno=456428</li>
+    <li>tiktok: https://www.tiktok.com/@berryveryloveyou/video/7077121238518205697</li>
+  </ul>
+  <li>samples</li>
+  <ul>
+    <li>dog: https://www.pngwing.com/ko/free-png-ienon</li>
+    <li>hat: https://www.ocokorea.com/shop/goods/product_view.do?pid=994649</li>
+    <li>hamster: https://www.eyesmag.com/posts/137014/instagram-story-filter-recommendation</li>
+    <li>sunglasses: https://rounz.com/product.php?productIndex=3002602</li>
+  </ul>
+</ul>
 </ul>
