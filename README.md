@@ -43,3 +43,24 @@
 <p>Download samples and files, and run <code>main.py</code>.</p>
 <p>When you run it, your face will appear on the webcam without the filter applied.</p>
 <p>Whenever you press tab key, filter changes. and press 'q', program finishes.</p>
+<h2>Examples</h2>
+<ul>
+  <li>original</li>
+  <img src="https://github.com/Cho1jaeho/funnyface_AR_filter/assets/162866830/3686e84f-d647-4248-b75a-ea3b578544fd" width=600 height=500>
+  <li>enlarge eyes and mouth</li>
+  <img src="https://github.com/Cho1jaeho/funnyface_AR_filter/assets/162866830/c7f34b0d-677c-4722-bf99-e7e4b5603aa6" width=600 height=500>
+  <li>hat filter</li>
+  <img src="https://github.com/Cho1jaeho/funnyface_AR_filter/assets/162866830/e9f3e2d1-7fff-41ea-9c40-2ea25fcf9270" width=600 height=500>
+  <li>bulge effect</li>
+  <img src="https://github.com/Cho1jaeho/funnyface_AR_filter/assets/162866830/4b56d686-76b4-46f0-8fff-81afcc269ea0" width=600 height=500>
+  <li>concave effect</li>
+  <img src="https://github.com/Cho1jaeho/funnyface_AR_filter/assets/162866830/1bcb104c-db58-4c81-bd52-5c0f2792a226" width=600 height=500>
+  <li>sunglass filter</li>
+  <img src="https://github.com/Cho1jaeho/funnyface_AR_filter/assets/162866830/df0a2c8a-99c8-4523-b113-8b0c1e3fa605" width=600 height=500>
+  <li>hamster filter</li>
+  <img src="https://github.com/Cho1jaeho/funnyface_AR_filter/assets/162866830/6b42636d-fd5d-4f65-a80b-25d20a805cbd" width=600 height=500>
+  <li>dog filter</li>
+  <img src="https://github.com/Cho1jaeho/funnyface_AR_filter/assets/162866830/42c33bf6-bf52-48fe-a549-c92e284e7370" width=600 height=500>
+  <li>color invert</li>
+  <img src="https://github.com/Cho1jaeho/funnyface_AR_filter/assets/162866830/ee1c69e6-445a-4162-b7b6-f6ce46e6c616" width=600 height=500>
+</ul>
