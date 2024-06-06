@@ -43,7 +43,7 @@
 <p>Download samples and files, and run <code>main.py</code>.</p>
 <p>When you run it, your face will appear on the webcam without the filter applied.</p>
 <p>Whenever you press tab key, filter changes. and press 'q', program finishes.</p>
-<h2>Examples</h2>
+<h2>Using examples</h2>
 <ul>
   <li>original</li>
   <img src="https://github.com/Cho1jaeho/funnyface_AR_filter/assets/162866830/3686e84f-d647-4248-b75a-ea3b578544fd" width=600 height=500>
